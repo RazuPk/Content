@@ -1,0 +1,32 @@
+.content {
+  text-align: center;
+}
+hr{
+  width: 10%;
+}
+
+.card {
+  margin-top: 25px;
+}
+.card-img {
+  width: 100%;
+}
+.card-body {
+  text-align: justify;
+  margin: 15px auto;
+}
+.card-title {
+    font-weight: bold;
+    font-size: 22px;
+}
+.btn.btn-read-more {
+    margin: 0;
+    padding: 0;
+    color: red;
+    text-decoration: underline;
+}
+.btn.btn-read-more:hover {
+
+    text-decoration: none;
+
+}
